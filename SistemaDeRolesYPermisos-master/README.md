@@ -39,7 +39,7 @@ La IGU cuenta con los siguientes elementos:
 3. Ejecutar la aplicación.
 4. Utilizar la IGU para iniciar sesión y acceder a las funcionalidades.
 
-Vista previa: [Ver Video](https://www.linkedin.com/feed/update/urn:li:activity:7159646369371062272)
+
 
 ## Estructura del Proyecto
 
